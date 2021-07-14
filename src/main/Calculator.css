@@ -2,10 +2,16 @@ body{
     text-align: center;
 }
 
-.Calculadora{
+/*.Calculadora{
     width: 280px;
     height: 320px;
     border: 1px solid red;
     border-radius: 8px;
-    background: darkblue;
+    background: green;
+}*/
+
+.Calcula{
+    width: 400px;
+    height: 200px;
+    background: blue;
 }
