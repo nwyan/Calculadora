@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Calculadora from './main/Calculadora'
-import Calculator from './main/Calculator';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <div>
-    <h1>asdsakdlaskm</h1>
-    <Calculator />
-    <Calculadora />
+    <App />    
   </div>
   ,document.getElementById('root')
 );
