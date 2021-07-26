@@ -1,0 +1,25 @@
+
+.root {
+
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+
+.buttonErro {
+
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    border: none;
+    
+    background-color: rgb(86, 241, 24);
+    transition: all ease .5s;
+}
+.buttonErro:hover{
+    padding: 10px 40px 10px 40px;
+    background-color: rgb(57, 197, 1);
+}
